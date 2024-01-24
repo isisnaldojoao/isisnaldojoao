@@ -19,4 +19,4 @@
   
 </div><br/>
 
-Apaixonado por tecnologia, buscando sempre melhorando, estudando conceitos de estrutura e padrões.
+Apaixonado por tecnologia, buscando sempre melhorar, estudando conceitos de estrutura e padrões de projeto.
