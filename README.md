@@ -7,7 +7,7 @@
 ## Tecnologias que mais uso
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  
+<img alt="ABAP" src="https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
@@ -20,7 +20,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Hive" src="https://img.shields.io/badge/Hive-FF7F50?style=for-the-badge&logo=hive&logoColor=white"/>
-<img alt="ABAP" src="https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
 
 </div>
 
