@@ -4,7 +4,7 @@
 
 ![isisnaldojoao GitHub stats](https://github-readme-stats.vercel.app/api?username=isisnaldojoao&show_icons=true&theme=dark)
 
-## Tecnologias que mais uso
+## Tecnologias que trabalho
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img alt="ABAP" src="https://img.shields.io/badge/SAP_ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
@@ -25,4 +25,4 @@
 </div>
 
 
-Apaixonado por tecnologia, buscando sempre melhorar, estudando conceitos de estrutura e padrões de projeto.
+Apaixonado por tecnologia, estou sempre em busca de aprimoramento contínuo, estudando estrutura de sistemas e padrões de projeto para desenvolver soluções cada vez mais eficientes e escaláveis.
