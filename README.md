@@ -6,8 +6,6 @@
 
 ## Tecnologias que mais uso
 
-### 🚀 Tecnologias que uso
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
