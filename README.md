@@ -25,4 +25,4 @@
 </div>
 
 
-Apaixonado por tecnologia, estou sempre em busca de aprimoramento contínuo, estudando estrutura de sistemas e padrões de projeto para desenvolver soluções cada vez mais eficientes e escaláveis.
+ABAP Junior. Apaixonado por tecnologia, estou sempre em busca de aprimoramento contínuo, estudando estrutura de sistemas e padrões de projeto para desenvolver soluções cada vez mais eficientes e escaláveis.
